@@ -1,7 +1,7 @@
 == Chapter II
 
 [.chapter-synopsis]
-* 1773. His Preparation for the Ministry
+* 1773+++.+++ His Preparation for the Ministry
 * Travels as Guide to Esther Tuke also with Mary Robinson and Barbara Drewry
 * His First Appearances in the Ministry
 * Accompanies Christiana Hustler and Phebe Marshall.
@@ -408,7 +408,7 @@ Thomas Greer to John Conran.
 Stockton, Fourth Month 17th, 1780.
 
 [.salutation]
-Dear John, 
+Dear John,
 
 As I have passed along from place to place in this country,
 I have more than once remembered your request that I would write to you,
