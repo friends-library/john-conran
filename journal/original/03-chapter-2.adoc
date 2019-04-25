@@ -1,10 +1,9 @@
 == Chapter II.
 
 [.chapter-synopsis]
-* 1773+++.+++ His Preparation for the Ministry
-* Travels as Guide to Esther Tuke
-* Also With Mary Robinson And Barbara Drewry
-* His First Appearances In the Ministry
+* 1773+++.+++ His preparation for the ministry
+* Travels as guide to Esther Tuke, also with Mary Robinson and Barbara Drewry
+* His first appearances in the ministry
 * Accompanies Christiana Hustler and Phebe Marshall.
 
 In some of those seasons of deep baptism before related,
@@ -12,7 +11,7 @@ it used to spread upon my mind that the Lord had a service for me,
 to make use of me in His church and family,
 which brought a great fear over my mind lest Satan,
 (whose power in deceiving I was now measurably acquainted with)
-should put on the appearance of an angel of light +++[+++and deceive me],
+should put on the appearance of an angel of light +++[+++and deceive me+++]+++,
 and so I should become a vessel marred upon the wheel.
 The preparation of the heart in man,
 and the answer of the tongue in this arduous concern, must be of the Lord alone;
@@ -123,8 +122,7 @@ meeting where there were to be two women Friends from England.
 In the afternoon meeting, I felt the burden of the Word as a fire,
 and after resisting it a great part of the meeting,
 I stood up with these words which our blessed Lord used when he wept over Jerusalem,
-"`Oh!
-Jerusalem, Jerusalem, thou that killest the prophets,`" etc.,
+"`Oh! Jerusalem, Jerusalem, thou that killest the prophets,`" etc.,
 and sat down in such peace as I think I never felt before,
 which continued the rest of the evening, under a solemn covering.
 
@@ -151,7 +149,7 @@ learning the law written on my heart.
 
 +++[+++In the year 1774, he accompanied Esther Tuke, of York,
 then on religious service in Ireland, to some meetings, to good satisfaction,
-who soon after her return home, thus writes to him.
+who soon after her return home, thus writes to him.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -214,10 +212,13 @@ Esther Tuke.
 Two women friends, Mary Robinson and Barbara Drewry,
 came here in the course of their religious service,
 and feeling my mind drawn to accompany them to
-several meetings in this province +++[+++Ulster,]
+several meetings in this province +++[+++Ulster,+++]+++
 I did so; and went with them to Dublin,
 and from thence through the two provinces of Leinster and Munster,
 of which journey the following are some extracts:--
+
+[.small-break]
+'''
 
 1775--Sixth Month 12th.--I went to meeting at Hillsborough, with my dear friends,
 Barbara Drewry and Mary Robinson, and unexpectedly during the ministry of Barbara Drewry,
@@ -227,15 +228,18 @@ Lurgan, etc.
 in this journey he should be running in his own strength,
 and incurring the censure of some of his friends,
 he relates that on the road these cloudy feelings seemed to be dispelled,
-and peace restored to his mind, and says:]
+and peace restored to his mind, and says:+++]+++
 I hope I am thankful that I was preserved,
 willing to give up to the Master`'s requirings,
 though I left my business and family unprepared for such a journey,
 but I was preserved pretty much in resignation.
 
+[.small-break]
+'''
+
 20th.--Whilst in Newry I met with some people of business,
 with whom I had some conversation, which I thought left me weaker;
-upon leaving the town I felt a +++[+++temptation]
+upon leaving the town I felt a +++[+++temptation+++]+++
 in myself almost to deny my profession, and was quite ashamed of the company, plainness,
 and simplicity of myself and friends, which I told them of;
 and a lesson may be read in this to myself and others,
@@ -282,6 +286,9 @@ the canvassing of which the regulated mind has not any business with;
 after such a conversation, I have felt myself reduced to weakness, confusion,
 and disorder, and at times have been almost ready to faint in spirit.
 
+[.small-break]
+'''
+
 Eighth Month 3rd.--Meeting at Ballinakill.
 The same sort of dryness and barrenness, was experienced here as in other places,
 which makes me ready almost to conclude the fault to be in myself,
@@ -291,6 +298,9 @@ not being conscious of any falling away on my side; but the great Master knows b
 therefore may His will be done.
 This meeting was held in silence,
 and pretty many strangers were at it and behaved themselves well.
+
+[.small-break]
+'''
 
 6th.--Monthly Meeting at Mountrath.
 How shall I be able to express the feelings of the visitation I had last night!
@@ -308,7 +318,7 @@ but that through favour the cloud which seemed to envelope it, was gradually dis
 light broke forth, and the testimony of Truth,
 rose above the dark spirits of some of the people,
 and after relating a part of Barbara Drewry`'s weighty communication therein,
-goes on to say]--the Friend observed in her testimony,
+goes on to say+++]+++--the Friend observed in her testimony,
 that a heavy or dark cloud hung over this nation,
 and that a sifting day would be afforded to the people,
 when the foundations of many would be tried,
@@ -328,9 +338,12 @@ whom they have always experienced to be a ready help in the day of trouble.
 And if the church and people are tried with outward persecution,
 it may be a means of making them draw near to Him who is willing to draw near to them,
 since they will neither hear the reproofs of instruction inwardly nor instrumentally.
-I think Truth was triumphant over darkness +++[+++in the meeting],
+I think Truth was triumphant over darkness +++[+++in the meeting+++]+++,
 which was a comfortable experience to my hungry and thirsty soul,
 which had in many meetings been baptized in the cloud, into death and darkness.
+
+[.small-break]
+'''
 
 Eighth Month 8th.--Arrived this morning in Dublin, where I left my dear companions,
 and returned home.
@@ -347,6 +360,9 @@ on the approach of the great linen market in Dublin, the profits of which I resi
 and left my goods at home to the disappointment of my customers who wanted them;
 and if I lost that advantage, I had the rich reward of peace in my bosom.
 
+[.small-break]
+'''
+
 At the half-year`'s meeting, the summer of this year,
 I fell into company with a young woman, Louisa Strangman;
 the first time I saw her at a Friend`'s house, I felt, in silence,
@@ -358,7 +374,7 @@ waiting as I apprehended the Lord`'s time to communicate it:
 in this interval there was a Friend closely addressing her,
 but my first impressions kept me easy under it.
 And when I felt the way open to proceed in it at that time,
-it was nearly sis years after this before we were married;
+it was nearly six years after this before we were married;
 this was a season in the Lord`'s hand of deep exercise
 and great trial of my faith and patience,
 as the prospect I had at first was often totally obliterated,
@@ -370,14 +386,17 @@ earthly blessing I was ever favoured with,
 a true yoke-fellow, in spiritual as well as temporal concerns,
 and who never threw any impediment in the way of my going on public services.
 I write these few hints, that in this important and weighty engagement,
-we should have our eye turned to the Light, +++[+++of Christ`'s Spirit]
+we should have our eye turned to the Light, +++[+++of Christ`'s Spirit+++]+++
 if we expect that favour from the Lord, a good wife, who is indeed a crown to her husband!
+
+[.small-break]
+'''
 
 In the many discouragements inwardly from Satan,
 to discourage me from embracing the new and living way,
 which had now been opened in measure to my view, was the prospect of great sufferings,
 perhaps death itself, and in these days of darkness, and the shadow of death,
-human nature recoiled, and I was at times brought very low, +++[+++ready to say]
+human nature recoiled, and I was at times brought very low, +++[+++ready to say+++]+++
 "`How shall I stand if these things befall me?
 I fear I shall surely give way, and lose all!`"
 But Divine mercy was extended to me, by shewing me that what appears impossible to man,
@@ -502,7 +521,7 @@ in which their company was serviceable to me.
 I left home Sixth Month 2nd, to join the Friends at Stramore,
 under a full persuasion that it was my duty to do so:
 let none think I had not necessary avocations to call me to another line,
-for our great +++[+++linen]
+for our great +++[+++linen+++]+++
 fair in Dublin was within a few days of commencing,
 and though I was assisted by having orders for some of my goods,
 yet I had a considerable share left on hand to sell,
@@ -521,7 +540,7 @@ who I believe not only required this offering at my hands, which costs me someth
 but also put it into the hearts of His people to make way for me;
 for my dear and beloved brethren of our province seemed
 willing to trust me out that I might not be lagging behind,
-and a tendering time it was to my spirit in +++[+++mentally]
+and a tendering time it was to my spirit in +++[+++mentally+++]+++
 bidding them farewell on my quitting Castle Shane; though they were not present,
 yet I had a tendering and affecting feeling of them,
 in that one Spirit which I believe unites all those at times who drink of it.
@@ -544,6 +563,9 @@ to drop amongst us, which I did in fear,
 and kept as near to the opening as I thought I could,
 and was at times favoured with the wages of obedience.
 
+[.small-break]
+'''
+
 30th.--At Ballymurry: after I had sat a short time in the meeting,
 I felt a burden on my mind,
 which increased to be so weighty as to be difficult to sit under;
@@ -562,6 +584,9 @@ the standard of truth and righteousness--keep faithful to your testimonies, Frie
 and measure yourselves by this standard,
 and let each individual of you come up to his measure:`"
 my mind has been favoured with rest and comfort since.
+
+[.small-break]
+'''
 
 Second Month 2nd.--Meeting at Moate.
 I went to this meeting which was large, in a good degree of fear,
@@ -582,6 +607,9 @@ The covering of my spirit was comfortable,
 heightened by the fear I was in of taking away with me what I had dropped,
 which had tended to my own peace, and was fresh cause of renewed gratitude.
 
+[.small-break]
+'''
+
 3rd.--Meeting at Birr, which to me was a very hard painful one.
 My dear friends had frequently pressed me to sit beside them in these small meetings,
 which I was not easy to give up to, and almost always avoided it,
@@ -595,10 +623,13 @@ I here found I was too neglectful of the advice of my friends,
 in these or lite small occasions, and that I was preferring my own judgment,
 or stiffness, or fear of man, to their feelings.
 
+[.small-break]
+'''
+
 6th.--Meeting at Mountrath.
 +++[+++After alluding to a trying conversation that he
 had with a Friend before going to meeting,
-relative to his travelling, and which brought him into a very painful situation, he says]
+relative to his travelling, and which brought him into a very painful situation, he says+++]+++
 This journey so far has been of considerable service to me,
 as I apprehend I have acquired a greater knowledge of men than I possessed before,
 which has already had a good effect on me,
@@ -628,6 +659,9 @@ It is sorrowful, painfully sorrowful, to behold these things,
 and I wish I may be mistaken in judging a spirit that I believe would
 be ready to cast stones at the servants if they could.
 
+[.small-break]
+'''
+
 Seventh Month 9th.--Meeting at Limerick.
 I was much afraid for some time before I reached this city,
 as thinking it to be a large meeting and fearful of having any thing laid on me in it.
@@ -642,14 +676,20 @@ I gave up to it in a broken stammering manner,
 which was more clearly and better explained by one of the friends taking it up,
 to my great consolation.
 
+[.small-break]
+'''
+
 12th.--Meeting at Clonmel.
 I am afraid a spirit of earthly-mindedness too much prevails in too many here,
 which fetters the mind, and prevents it seeking after better enjoyments:
 a state of resistance of the clay in the hands of the great Potter was treated with,
 and the danger of standing out compared to rebellion, which is as the sin of witchcraft.
 
+[.small-break]
+'''
+
 16th.--Waterford meeting.
-After we had settled down into silence at '`s in the evening,
+After we had settled down into silence at +++_____+++`'s in the evening,
 a little matter came before me in a very lively manner,
 which I reasoned with till it left me,
 and I never could see it any more in the light though I earnestly entreated for it,
@@ -660,10 +700,13 @@ that I had been unfaithful in not giving forth that which had been handed to me,
 the holding back of which, I believe, stopped the spring in others,
 and was the cause of my punishment, which Drought me into a sincere repentance,
 and I hope will be a warning to me to be more careful for the future.
-There is great danger in being too hasty in offering, +++[+++as well as]
+There is great danger in being too hasty in offering, +++[+++as well as+++]+++
 too slack-handed, which leads me into fear of erring on either hand;
 but I hope for preservation as I remain in the childlike simplicity,
 either to move or stand still, as I find faith to believe it is required of me.
+
+[.small-break]
+'''
 
 Ninth Month 27th.--Meeting at Athy, pretty select with the Friends of that meeting.
 When we were here before, near the close of the meeting,
@@ -755,8 +798,7 @@ to give them a little hint or two of what had long laid upon my mind.
 I know not what can excuse my great enlargement,
 after a pretended conclusion (contrary to the advices),
 but that the worldly spirit +++[+++alluding to an order she gave John Conran for Irish linens,
-etc]
-which is often first, if not last, with many, and had need be thought of by me,
+etc+++]+++which is often first, if not last, with many, and had need be thought of by me,
 never came into my mind till I was about to finish; however, if thou hast no better,
 and art still so well disposed as to wish a subject to write to me upon,
 I have furnished thee with one, perhaps to my own profit as well as pleasure,
@@ -782,7 +824,7 @@ to doubt the foundation and almost the whole of my proceedings in the ministry,
 which cast a great damp upon my spirit,
 so far that I thought I would scarcely again venture to move in that service,
 or if I did, that my way might be so blocked up as to shut me up in silence.
-I went to bed +++[+++one night]
+I went to bed +++[+++one night+++]+++
 much under these discouraging reflections,
 but in the morning I thought a language livingly opened in my mind of this import,
 "`To do that, day by day, that appeared to me to do,
@@ -802,7 +844,7 @@ to open before me with considerable satisfaction.
 I took a last farewell on the 8th of Second Month of my
 very dear and much respected friends and companions,
 in whose company I had had many close baptisms,
-also many comfortable seasons- in which we were
+also many comfortable seasons in which we were
 favoured to drink together of the same cup of blessing;
 it was a time of painful trial to my feelings, through which I was mercifully supported,
 and could say on my return home,
