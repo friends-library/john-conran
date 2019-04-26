@@ -1,9 +1,9 @@
 == Chapter II
 
 [.chapter-synopsis]
-* 1773+++.+++ His Preparation for the Ministry
-* Travels as Guide to Esther Tuke also with Mary Robinson and Barbara Drewry
-* His First Appearances in the Ministry
+* 1773+++.+++ His preparation for the ministry
+* Travels as guide to Esther Tuke, also with Mary Robinson and Barbara Drewry
+* His first appearances in the ministry
 * Accompanies Christiana Hustler and Phebe Marshall.
 
 In some of those seasons of deep baptism before related,
@@ -57,7 +57,7 @@ which also had its glory,
 I thought the time was near at hand that I should be called upon to invite others
 to come and try for themselves how good the Lord is to those that love and fear Him.
 In meetings I used at times to feel the Word of Life dwelling in my heart,
-and a flow of language living there, as if addressed to sundry states present,
+and a flow of language living there, as if addressed to various states present,
 but dared not venture to utter it in words,
 and I do not recollect I felt any discouragement for not doing it.
 In managing my outward business, in the garden and fields by myself,
@@ -145,7 +145,7 @@ learning the law written on my heart.
 [.offset]
 +++[+++In the year 1774, he accompanied Esther Tuke, of York,
 then on religious service in Ireland, to some meetings, to good satisfaction,
-who soon after her return home, thus writes to him.]
+who soon after her return home, thus writes to him.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -158,7 +158,7 @@ Esteemed Friend,
 
 It will, perhaps,
 not be unacceptable to be informed of my safe return to my own habitation,
-little more than a week ago, rest seems pleasant after the constant fatigue of traveling,
+little more than a week ago. Rest seems pleasant after the constant fatigue of traveling,
 and close exercise to both body and mind;
 but though traveling is attended with many difficulties to me,
 yet in remembrance of the help that was afforded,
@@ -172,7 +172,7 @@ with strong desires that stability and faithfulness may be the girdle of your lo
 pure wisdom your guide in the path I trust your feet have been turned into,
 which leads through the wilderness and Jordan to a settlement in the land of promise,
 which I doubt not you have at times had a sight of.
-Various, according to our different dispositions, are the dispensations,
+Various, according to our different dispositions, are the dispensations
 Infinite Wisdom sees necessary for us to pass
 through in this journey from Egypt to Canaan,
 but all for this great end, to reduce self, and thoroughly purify from all uncleanness,
@@ -182,7 +182,7 @@ and run well for a time, but one thing or another has hindered.
 Some have been like the young man who came to
 inquire what further good thing he should do,
 and turned away sorrowful at the information, "`Sell all`"--here is indeed the trial,
-all that treasure we have got, be it our own wisdom, righteousness, or whatever else,
+all that treasure we have, be it our own wisdom, righteousness, or whatever else,
 it must be parted with, and the innocent, sweet, simple,
 child-like state experienced which desires the sincere milk of the word,
 that their growth may be thereby.
@@ -205,20 +205,23 @@ Esther Tuke.
 Two women friends, Mary Robinson and Barbara Drewry,
 came here in the course of their religious service,
 and feeling my mind drawn to accompany them to
-several meetings in this province +++[+++Ulster,]
+several meetings in this province +++[+++Ulster,+++]+++
 I did so; and went with them to Dublin,
 and from there through the two provinces of Leinster and Munster,
 of which journey the following are some extracts:--
 
 1775--Sixth Month 12th.--I went to meeting at Hillsborough, with my dear friends,
-B+++.+++ Drewry and M. R., and unexpectedly during the ministry of B. D.,
+Barbara Drewry and Mary Robinson, and unexpectedly during the ministry of Barbara Drewry,
 apprehended myself called upon to proceed with them, which I did to Stramore, Moyallen,
 Lurgan, etc.
+
+[.offset]
 +++[+++After speaking of a fear possessing his mind lest by engaging
 in this journey he should be running in his own strength,
 and incurring the censure of some of his friends,
 he relates that on the road these cloudy feelings seemed to be dispelled,
-and peace restored to his mind, and says]
+and peace restored to his mind, and says:+++]+++
+
 I hope I am thankful that I was preserved, willing to give up to the Master`'s requirings,
 though I left my business and family unprepared for such a journey,
 but I was preserved pretty much in resignation.
@@ -234,9 +237,9 @@ We went forward in our journey,
 and were at times favored with a sweet and open conversation,
 and permitted that freedom in it as to relate many
 things that I believe were advantageous to each other.
-I thought I found my dear friend, B. Drewry, often had a polishing effect upon me,
+I thought I found my dear friend, Barbara Drewry, often had a polishing effect upon me,
 and her remarks on and corrections of my weakness and faults,
-were wonderfully refreshing and comforting, which made me not repine at my journey,
+were wonderfully refreshing and comforting, which made me not feel regret at my journey,
 which was a truly satisfactory one to me.
 
 In our way from Ross to Clonmell, we were accompanied by several Friends,
@@ -293,12 +296,15 @@ and hope I shall never be tired of running His errands,
 and that He will be pleased to give me strength
 to give up all for His great name`'s sake.
 
+[.offset]
 +++[+++He describes the meeting as having been one of close and deep exercise,
 but that through favor the cloud which seemed to envelope it, was gradually dispelled,
 light broke forth, and the testimony of Truth,
 rose above the dark spirits of some of the people,
-and after relating a part of B. D.`'s weighty communication therein,
-goes on to say]--the Friend observed in her testimony,
+and after relating a part of Barbara Drewry`'s weighty communication therein,
+goes on to say+++]+++
+
+The Friend observed in her testimony,
 that a heavy or dark cloud hung over this nation,
 and that a sifting day would be afforded to the people,
 when the foundations of many would be tried,
@@ -360,8 +366,8 @@ richest earthly blessing I was ever favored with,
 a true yoke-fellow, in spiritual as well as temporal concerns,
 and who never threw any impediment in the way of my going on public services.
 I write these few hints, that in this important and weighty engagement,
-we should have our eye turned to the Light,
-of Christ`'s Spirit if we expect that favor from the Lord, a good wife,
+we should have our eye turned to the Light
+of Christ`'s Spirit, if we expect that favor from the Lord, a good wife,
 who is indeed a crown to her husband!
 
 In the many discouragements inwardly from Satan,
@@ -388,7 +394,7 @@ as He was with the three children in the burning fiery furnace,
 and crowned them with a crown of everlasting righteousness, eternal in the heavens;
 and not only them, but all those who love, honor, and obey the Lord, their righteousness.
 
-I stayed about home I think in the year 1776,
+I stayed about home, I think, in the year 1776,
 but was diligent in attending meetings at home, and the national half year`'s meeting.
 In 1778 and 1779, I was not much from home on Truth`'s account;
 I attended some meetings with Samuel Spavold, Isaac Gray, and Thomas Carrington,
@@ -418,10 +424,10 @@ took a meeting at Sackside, on the First-day following,
 and in the course of that week got through the meetings in Northumberland,
 and attended their Quarterly Meeting.
 In those parts I found a living remnant in our Society,
-as well as great openness amongst many of those not in membership with us,
+as well as great openness among many of those not in membership with us,
 many of whom flocked to meetings, whose appearance at first rather filled me with fear,
 but like a much greater instrument formerly, I was soon given to see my mistake,
-and that the Lord had a seed amongst them,
+and that the Lord had a seed among them,
 to whom the Gospel must be preached in its own unmixed purity.
 My heart was indeed humbled from meeting to meeting,
 under renewed sensations of the wonderful workings of the God of all grace,
@@ -433,7 +439,7 @@ On the 8th of this month, I got to Newcastle, where is a pretty large body of Fr
 and where our worthy friend Mabel Wighani, and three other public Friends live;
 but notwithstanding there are several valuable Friends in that place,
 I did not fare as well there as among the poor mountains in Northumberland;
-yet was favored with an open door amongst them, both in the fore and afternoon meetings;
+yet was favored with an open door among them, both in the fore and afternoon meetings;
 but experience has taught me, that even in those places,
 where the people are favored with a living ministry, by their calling for,
 and relying upon help from the servants,
@@ -445,7 +451,7 @@ but what they immediately receive and scatter at the word of command;
 the utmost intention of which is,
 to direct the enquiring mind to the Fountain of light, life and wisdom in themselves,
 that great mystery hid from ages, but now mercifully revealed,
-Christ in His people the hope of their glory.
+Christ in His people, the hope of their glory.
 
 From Newcastle I proceeded to North Shields, their Monthly meeting being there next day,
 from there by Sunderland, Shotton, Durham, Auckland, and Staindrop meetings,
@@ -456,7 +462,7 @@ but from meeting to meeting, and also at many other seasons, has been felt near,
 to the comfort and strengthening of my mind to pursue the line
 of duty which opened in prospect before I left home.
 Having now got through this country, I purpose going into Yorkshire tomorrow,
-and taking about eighteen meetings in that county, which lie nearest the sea-coast,
+and taking about eighteen meetings in that county, which lie nearest the sea coast,
 and then set my face towards London, if enabled to do so.
 I may inform you, I have been poorly in health ever since I got into England,
 occasioned by the exceeding cold weather, and high east wind with snow;
@@ -514,7 +520,7 @@ and a tendering time it was to my spirit in mentally
 bidding them farewell on my quitting Castle Shane;
 though they were not present, yet I had a tendering and affecting feeling of them,
 in that one Spirit which I believe unites all those at times who drink of it.
-Oh! my beloved friends, I most tenderly saluted you,
+Oh! My beloved friends, I most tenderly saluted you,
 and longed for the prosperity of our Zion, and you in particular:
 I was concerned for you that none of you might receive hurt or damage,
 and in the springings of that ancient fountain, that cannot be drawn dry,
@@ -529,7 +535,7 @@ bounds of Moyallen meeting when I arrived,
 I had to join the Friends concerned therein in the remainder,
 as I had also to do in the greatest part of Lurgan meeting;
 I had a few words handed to me, at times, in some of the sittings, as I apprehended,
-to drop amongst us, which I did in fear,
+to drop among us, which I did in fear,
 and kept as near to the opening as I thought I could,
 and was at times favored with the wages of obedience.
 
@@ -556,7 +562,7 @@ Second Month 2nd.--Meeting at Moate.
 I went to this meeting which was large, in a good degree of fear,
 having been known there formerly, making a different appearance to my present.
 After my dear friend Phebe Marshall had sat down the second time, I stood up,
-and in great fear declared, "`Oh! that the people were wise,
+and in great fear declared, "`Oh!--that the people were wise,
 that they would consider this, and remember their latter end.
 Friends, take not up your rest in your earthly possessions,
 for it is a false rest--a polluted rest; but turn unto the Lord,
@@ -564,8 +570,8 @@ for in the trying day He will be as a staff of support to those who lean upon Hi
 After I sat down, my beloved friend Christiana Hustler stood up,
 and declared that these words which had been repeated in their hearing,
 had been the companion of her mind for a considerable time.
-"`Oh! that the people were,`" etc., and recommended the advice given.
-Then dear P. M. stood up and declared something of a like nature,
+"`Oh!--that the people were,`" etc., and recommended the advice given.
+Then dear Phebe Marshall stood up and declared something of a like nature,
 which gave me much consolation to find the unity of my beloved friends.
 The covering of my spirit was comfortable,
 heightened by the fear I was in of taking away with me what I had dropped,
@@ -600,7 +606,7 @@ feeling my wounds to be bound up, and wine and oil to be in a small measure pour
 so as to confess Him to be the tenderest of parents and best of masters.
 Yet I believe my dear friends and fellow-laborers had to sit where the people sat,
 which I dare venture to say was not in heavenly places in Christ Jesus!
-Oh! the threshing-instruments! they were used to thresh the
+Oh!--the threshing-instruments! They were used to thresh the
 dry and barren mountains of a long and empty profession;
 yet I believe they did not come down,
 but rather that they thought they were too hardly treated,
@@ -610,7 +616,7 @@ therefore it was to be feared the cure would not be so readily perfected.
 believe to pass through near three hours of painful silence,
 the spring lay so low, and nothing to draw with; the rubbish so great,
 and few faithful laborers to lay their shoulders to the burden!
-Oh! you faithless generation, what will you do in the end?
+Oh! You faithless generation, what will you do in the end?
 Will your being the children of faithful Abraham
 work out your salvation? It is sorrowful,
 painfully sorrowful, to behold these things,
@@ -655,7 +661,7 @@ but I hope for preservation as I remain in the child-like simplicity,
 either to move or stand still, as I find faith to believe it is required of me.
 
 Ninth Month 21st.--Meeting at Athy, pretty select with the Friends of that meeting.
-When we were here, before, near the close of the meeting,
+When we were here before, near the close of the meeting,
 I found it pretty strong on my mind for some time to request Friends to stop,
 as there were some of other societies present, but was backward and did not,
 and I thought this was the cause of our return here.
@@ -714,17 +720,18 @@ feeling too much covered with the stuff to be fit to converse with those engaged
 I hope to meet you and our worthy friends, Mary Ridgeway and Jane Watson,
 at our Quarterly Meeting at Leeds next week; perhaps, I may get my coat brushed,
 or get on a better, and be more fit to converse with my friends.
-M+++.+++ Ridgeway`'s service is very great, her ministry deep and searching;
+Mary Ridgeway`'s service is very great, her ministry deep and searching;
 they are renewedly united to the living remnant of the Lord`'s people,
 who are thankful He still continues thus to visit.
-Our worthy friend M. R. seems to have brightened through her recent afflictions,
+
+Our worthy friend Mary Ridgeway seems to have brightened through her recent afflictions,
 as if she had fully experienced passing through the refining pot for the silver,
 and furnace for the gold, and had come out pure.
 We had almost lost hope of seeing that great good man, Samuel Neale,
 and his armor-bearer, but it revives a little through your hint concerning them.
 I love your companions so well as to desire every help
 and comfort for them consistent with the Master`'s will.
-My dear companion and sister in the new relationship, C. H., and I,
+My dear companion and sister in the new relationship, Christiana Hustler, and I,
 have been in some degree like bone of one bone, from our youth up,
 and I have often been more gratified in her enlargement in spiritual gifts than my own,
 and our love and near unity, I believe, will never here have an end.
@@ -742,7 +749,8 @@ my sentiments concur with your pertinent remark, which felt to revive strength,
 to give them a little hint or two of what had long laid upon my mind.
 I know not what can excuse my great enlargement,
 after a pretended conclusion (contrary to the advices),
-but that the worldly spirit +++[+++alluding to an order she gave J. O. for Irish linens, etc.]
+but that the worldly spirit +++[+++alluding to an order she gave John Conran for
+Irish linens, etc.+++]+++
 which is often first, if not last, with many, and had need be thought of by me,
 never came into my mind till I was about to finish; however, if you have no better,
 and are still so well disposed as to wish a subject to write to me upon,
