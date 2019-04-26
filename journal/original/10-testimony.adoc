@@ -188,11 +188,14 @@ the 3rd of Twelfth Month, 1827, and signed in and on behalf thereof, by
 [.signed-section-signature]
 Thomas Christy Wakefield,
 
+[.signed-section-context-close]
 Clerk to the Men`'s Meeting.
+
 Read and approved in our Women`'s Quarterly Meeting for the Province of Ulster,
 held at Lurgan same time, and in and on behalf thereof, signed by
 
 [.signed-section-signature]
 Margaret Harvey,
 
+[.signed-section-context-close]
 Clerk to the Women`'s Meeting.

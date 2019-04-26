@@ -159,7 +159,7 @@ John Conran.
 --
 
 [.letter-heading]
-From Sabah Grubb To Louisa Strangman.
+From Sarah Grubb To Louisa Strangman.
 
 [.signed-section-context-open]
 Anner Mills, First Month 18th, 1783.
@@ -767,7 +767,7 @@ but we were favoured to get through the service in peace.
 In this year of my marriage I had thought to get leave to stay
 at home and attend all the meetings as they fell in course,
 which I think we always did when health permitted,
-for my dear wife was as zealously concerned, if not more so than I was; +++[+++but]
+for my dear wife was as zealously concerned, if not more so than I was; +++[+++but+++]+++
 I felt an engagement on my mind to visit the families
 of Friends in Lurgan and Moyallen meetings,
 and afterwards those of Coothill and Oldcastle meetings, which I proceeded in,
@@ -872,8 +872,11 @@ remain your assured, though poor friend,
 [.signed-section-signature]
 Christiana Hustler.
 
+[.postscript]
 P+++.+++ S. My late companion Phebe Marshall, is married to a Friend of Leeds meeting,
 whose name is James Blakes, I hope suitably.
+
+--
 
 Twelfth Month 6th.--Since writing the above, we attended our autumn Quarterly Meeting,
 proceeding pretty directly from thence into the counties of Durham, Northumberland,

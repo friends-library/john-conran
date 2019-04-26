@@ -223,7 +223,7 @@ and upon these grounds I held a pretty good opinion of my own attainments.
 
 Here I was ready to settle down, and to think I had reached the desired haven of rest;
 but this state, I believe, is one of the subtleties of our grand adversary,
-and is a false rest, and not +++[+++that]
+and is a false rest, and not +++[+++that+++]+++
 prepared for the people of God: out of this the enemy will not disturb us,
 he will allow us to remain there all our lives,
 as I fear too many do--resting in their own labours, their works will not follow them.
@@ -263,7 +263,7 @@ and was not sufficient to cover my nakedness; I could then say with holy Job,
 '`"`Naked I came into the world, and naked I shall go out,`" unless, oh Lord,
 thou cover me with a new garment,
 the fig-leaf covering does not hide me from thy
-judgments,`' which then began to be revealed in my soul.
+judgments, which then began to be revealed in my soul.
 
 I had been in the practice of going occasionally
 to the meetings of Friends for years past,
@@ -291,7 +291,7 @@ for I was built up in a good opinion of the religious profession of my education
 and I did not see much in the lives and conversations of many amongst the Quakers,
 to induce me to give them much preference to many amongst my fellow-professors: moreover,
 I did not comprehend the nature or use of silent meetings.
-There was a Friend there from Pennsylvania, Robert Willis,
+There was a Friend there from Pennsylvania, Robert Willis.
 I think he was silent in that sitting.
 Upon Friends gathering into the Meeting for Discipline, I went in,
 not knowing the impropriety of it;
