@@ -1,11 +1,12 @@
 == Chapter IV
 
 [.chapter-synopsis]
-* 1786+++.+++ Religious Services in Ulster Province
-* And in Carlow Meeting
-* Death of his Daughter
-* Visits the Meetings in Munster Province
-* Illness and Death of his Wife Return into Munster.
+* 1786+++.+++ Religious services in Ulster province
+* And in Carlow meeting
+* Death of his daughter
+* Visits the meetings in Munster province
+* Illness and death of his wife
+* Return into Munster.
 
 The 1st of First Month, 1780,
 I set out under concern to pay a religious visit again
@@ -58,7 +59,7 @@ I had believed-- blessed be His holy name!
 in which interval he lost his beloved and only daughter;
 soon after this afflicting event he received the following
 letter of condolence from his friend Gervase Johnson,
-who was then traveling in the work of the ministry in America.]
+who was then traveling in the work of the ministry in America.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -82,7 +83,7 @@ and in your experience in being thus resigned,
 to give her up to the disposal of her heavenly Father,
 you will feel your bitter trials to be sweetened,
 which I doubt not is your comfortable experience.
-Oh! my dear friends, knowing that all things will be parted from us, or we from them,
+Oh! My dear friends, knowing that all things will be parted from us, or we from them,
 is great teaching to us, that our sure happiness is in the great Giver of all good gifts,
 by loving, fearing, and serving Him;
 under these considerations I feel the encouraging
@@ -110,7 +111,7 @@ after it is over I have thought of going towards New England.
 
 [.offset]
 +++[+++The reader is referred to the Memorials of Rebecca Jones, p. 279,
-for an interesting allusion to Gervase Johnson.]
+for an interesting allusion to Gervase Johnson.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -128,8 +129,8 @@ I am inclined to salute you and my beloved Louisa,
 hoping that I am not wholly kept out of your remembrance in love,
 for I can attest that I love you,
 and often visit you in your affliction with the best desires my feeble mind can aspirate.
-I feel renewedly for you on the approaching Quarterly Meeting--oh!
-what a time for the most approved! how hard to steer faultless! and
+I feel renewedly for you on the approaching Quarterly Meeting--oh!--what a time
+for the most approved!--how hard to steer faultless! And
 yet under the banners of the Captain of the soul`'s salvation,
 conquest is gained over evil in all its intricacies.
 Nothing has yet happened that can make us dubious; the Lamb and His followers
@@ -151,7 +152,7 @@ to those who hold fast the form of sound words, and are not shaken in mind,
 and that the dear people who stray from the fold, may be brought to see their error.
 
 I am comforted for your sakes, that the dear Scotch women Friends are with you,
-we think Elizabeth Wigham a well-instructed scribe, and her precious B,
+we think Elizabeth Wigham a well-instructed scribe, and her precious B+++______+++,
 walking in the same safe path.
 By letter from Moate, we find you are also to have dear M. S. and S. W.;
 the best wishes I am capable of attend you all--that nothing may be
@@ -185,7 +186,7 @@ having with much difficulty reached the city;
 but was enabled through Divine favor to answer
 the service required of me in both meetings,
 to my own peace and solid satisfaction.
-+++[+++After performing the service required of him in those provinces, he says,]
++++[+++After performing the service required of him in those provinces, he says,+++]+++
 In this visit I had to pass through many baptizing exercises,
 the state of the church being very low in sundry places; the cares of this world,
 and the eager pursuit after the lawful things of it, have, I fear,
@@ -378,7 +379,7 @@ the state of the Jewish church, in the time of Nicodemus, was opened before me, 
 though a master in Israel, and a ruler among the Jews,
 appeared to know nothing of the spiritual doctrine of regeneration,
 though perhaps well instructed in the questions and traditions of his church;
-this may be the state of too many amongst us, who have heard by the ear,
+this may be the state of too many among us, who have heard by the ear,
 and their fathers have declared to them the truths of the Gospel,
 yet if they do not experience the new birth in themselves,
 and hear and obey the voice of Christ,
