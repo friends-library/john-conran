@@ -1,4 +1,4 @@
-== Chapter I.
+== Chapter I
 
 [.chapter-synopsis]
 * John Conran
