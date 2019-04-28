@@ -2,9 +2,9 @@
 
 [.chapter-synopsis]
 * 1782+++.+++ Attends the Yearly Meeting in London
-* Joins Robert Valentine and John Hall in Visiting Leinster and Munster Provinces
-* His Marriage
-* Visit to the Families of Ballyhagen and Ballinderry Meetings.
+* Joins Robert Valentine and John Hall in visiting Leinster and Munster provinces
+* His marriage
+* Visit to the families of Ballyhagen and Ballinderry meetings.
 
 In the year 1782, as I sat in the Half-year`'s Meeting for business at Dublin,
 I felt a warm impression on my mind to attend the ensuing Yearly Meeting in London,
@@ -41,7 +41,7 @@ here I experienced a deep baptizing season in poverty and silence,
 in which I received great instruction in reverence of spirit.
 Godliness is indeed a very great mystery,
 which is to be known only by that revealing power in the heart.
-My dear friend, E. Valentine was well concerned here.
+My dear friend, Robert Valentine was well concerned here.
 
 17th.--Meeting at Ballitore:
 I felt that way which the apostle called a more excellent way opened in my mind,
@@ -80,7 +80,7 @@ but through Divine favour a little light sprang up, and I had to express,
 that the children who are born from above, of the incorruptible seed of light and life,
 in this day may be compared to the cottage in the vineyard,
 and to the besieged city--that there are still to be found one here and another there,
-who are measurably engaged to stand for +++[+++the Lord`'s]
+who are measurably engaged to stand for +++[+++the Lord`'s+++]+++
 cause,
 and appear as lights in a dark and ignorant world--and that I had to
 believe the candle was lighted here and placed on the candlestick,
@@ -91,7 +91,7 @@ that their lives and good works might bring glory to their Father in heaven.
 
 [.offset]
 +++[+++From hence he wrote the following letter to his friend Louisa Strangman,
-who also received soon after a valuable communication from Sarah R. Grubb.]
+who also received soon after a valuable communication from Sarah R. Grubb.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -168,7 +168,7 @@ Anner Mills, First Month 18th, 1783.
 My Dear Friend,
 
 Thy acceptable letter of the 4th instant reached me in due course.
-As I felt some of thy painful sensations, +++[+++alluding to her prospect of marriage]
+As I felt some of thy painful sensations, +++[+++alluding to her prospect of marriage+++]+++
 so I could likewise rejoice with thee in the
 prevalence of that secret but all-powerful voice,
 which in seasons of our greatest besetment,
@@ -361,9 +361,9 @@ that under this present Gospel dispensation, a like state was experienced,
 when the priests and people were so Divinely refreshed in their silent meetings for
 worship that there was an unwillingness to enter in and minister,
 but they sat each of them refreshed and satisfied, as under their own vine and fig-tree,
-where none could make them afraid, +++[+++and I queried how Friends had]
+where none could make them afraid, +++[+++and I queried how Friends had+++]+++
 felt that day?
-+++[+++for that I could testify]
++++[+++for that I could testify+++]+++
 for myself that I had been baptized in the cloud, into death and darkness,
 and that sin was the partition-wall which separated, etc.
 The men`'s meeting was favoured:
@@ -372,7 +372,7 @@ he is a zealous Friend in discipline.
 I have renewed cause for thankfulness,
 that I feel the Lord to be my strength in weakness, riches in poverty,
 and my all in every time of need.
-I have had trying seasons to pass through +++[+++of late],
+I have had trying seasons to pass through +++[+++of late+++]+++,
 more so I think than I ever experienced since my mouth
 was first opened in a public testimony for the Truth,
 having often to go down into Jordan and to stand there
@@ -411,7 +411,7 @@ that He would in His tender mercy and gracious
 regard preserve them in His holy life and fear,
 that through Him they might bring forth fruits to His praise and glory.
 
-15th.--+++[+++After speaking of several meetings, and opportunities at Cork, he says]
+15th.--+++[+++After speaking of several meetings, and opportunities at Cork, he says+++]+++
 In all of these my covering was poverty, strippedness, and silence;
 under this dispensation I grew uneasy and restless, which I believe increased it,
 till Gracious Condescension was pleased to shew me that
@@ -469,7 +469,7 @@ to the comfort and refreshment I hope of many truly baptized ones present.
 
 7th.--Week-day meeting in Dublin.--I have now concluded this visit,
 and though my way has been much in the deeps, often baptized for the dead, dry,
-and formal professors amongst us, the lukewarm and indifferent, the earthly-minded,
+and formal professors among us, the lukewarm and indifferent, the earthly-minded,
 who bring death and darkness to our assemblies,--and have had to sit as the people sit,
 and to go down and visit the precious seed of the kingdom,
 which is in bondage in the hearts of the people--though these were very trying,
@@ -515,7 +515,7 @@ and the precious unity of their living brethren and sisters--
 they were enjoying the comforts of this summer season,
 but not enough attending on the work in themselves to which
 they were called--were loitering in the market-place,
-and permitting the blessed day of God`'s visitation to be passing by +++[+++unimproved],
+and permitting the blessed day of God`'s visitation to be passing by +++[+++unimproved+++]+++,
 and the night stealing upon them in which the work cannot be done.
 To such this language is truly applicable,--"`Work while it is called today,
 lest darkness come upon you.`"
@@ -529,7 +529,7 @@ they become dry and formal professors,
 and not receiving their daily food from heaven
 which only can keep the soul alive unto God,
 they live upon their former experiences when the Lord`'s candle shone upon them,
-are little better than burdens to the living, and their lives are without +++[+++the true]
+are little better than burdens to the living, and their lives are without +++[+++the true+++]+++
 honour, their hearts not being right in the sight of God.
 May such as these dear visited ones prize their calling,
 and be willing to open to Him who has mercifully knocked at their door,
@@ -558,7 +558,7 @@ and walking by that faith which is the evidence of what they do not see outwardl
 the end thereof is peace.
 
 [.offset]
-+++[+++Previous to his marriage he received the following letter from Thomas Greer]
++++[+++Previous to his marriage he received the following letter from Thomas Greer+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -760,7 +760,7 @@ and obtaining the approbation of our meeting, and my dear friend, James Christy,
 the elder, joining me in it, we set out on the 8th of the Tenth Month, 1783,
 and in the course of our visit had two meetings with
 between forty and fifty persons not in membership.
-"`We had some very painful baptisms,
+We had some very painful baptisms,
 some of the most stripping times I had met with of late, among dry formalists;
 but we were favoured to get through the service in peace.
 
@@ -912,7 +912,7 @@ poverty--be content to leave them in much poverty--I have taken the crown
 from off their heads--let them wear dust and ashes my appointed time,
 then shall my light break forth as brightness,
 and I will be to them a crown of glory and a diadem of beauty.`'`" It is
-believed the following is the letter referred to by Christiana Hustler.]
+believed the following is the letter referred to by Christiana Hustler.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -937,7 +937,7 @@ God!`"
 I believe it is good and also profitable for us experimentally
 to know and feel His will to be our sanctification;
 for we poor creatures have a deal of dross in us,
-and it is only by feeling +++[+++and submitting to]
+and it is only by feeling +++[+++and submitting to+++]+++
 the furnace, made hotter and hotter, that the dross is separated from the pure gold,
 which loses nothing of its weight and value by being thus refined,
 but has this excellency in it,
