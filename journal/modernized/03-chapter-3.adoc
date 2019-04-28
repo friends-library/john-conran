@@ -1,4 +1,4 @@
-== Chapter III.
+== Chapter III
 
 [.chapter-synopsis]
 * 1782+++.+++ Attends the Yearly Meeting in London
@@ -869,8 +869,6 @@ Christiana Hustler
 [.postscript]
 P+++.+++ S. My late companion Phebe Marshall, is married to a Friend of Leeds meeting,
 whose name is James Blakes, I hope suitably.
-
---
 
 Twelfth Month 6th.--Since writing the above, we attended our autumn Quarterly Meeting,
 proceeding pretty directly from there into the counties of Durham, Northumberland,
