@@ -90,7 +90,7 @@ that their lives and good works might bring glory to their Father in heaven.
 
 [.offset]
 +++[+++From hence he wrote the following letter to his friend Louisa Strangman,
-who also received soon after a valuable communication from Sarah Grubb.+++]+++
+who also received soon after a valuable communication from Sarah R. Grubb.+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -158,7 +158,7 @@ John Conran.
 --
 
 [.letter-heading]
-From Sarah Grubb to Louisa Strangman.
+From Sarah R. Grubb to Louisa Strangman.
 
 [.signed-section-context-open]
 Anner Mills, First Month 18th, 1783.
@@ -252,7 +252,7 @@ I had no view of it when I took up my pen,
 nor has my mind been disposed of late to communicate, but I write what occurs,
 without restraint, feeling that love in which there is freedom.
 I feel nearly and dearly to love you,
-and remain therein with R. G.`'s and sister Sally (John`'s) love,
+and remain therein with Robert Grubb`'s and sister Sally (John`'s) love,
 your poor but affectionate,
 
 [.signed-section-signature]

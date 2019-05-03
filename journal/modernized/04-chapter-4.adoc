@@ -117,10 +117,10 @@ for an interesting allusion to Gervase Johnson.+++]+++
 --
 
 [.letter-heading]
-From Sarah Grubb to John Conran.
+From Sarah J. Grubb to John Conran.
 
 [.signed-section-context-open]
-Aimer Mills, Second Month, 26th, 1801.
+Anner Mills, Second Month, 26th, 1801.
 
 [.salutation]
 My Dear Cousin,
@@ -330,7 +330,7 @@ the 6th of Twelfth Month, 1805, aged fifty years and eight months.
 --
 
 [.letter-heading]
-From Sarah Grubb to John Conran, On Occasion of the Death of his Wife.
+From Sarah J. Grubb to John Conran, On Occasion of the Death of his Wife.
 
 [.signed-section-context-open]
 Anner Mills, Twelfth Month 11th, 1805.

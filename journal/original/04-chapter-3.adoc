@@ -159,7 +159,7 @@ John Conran.
 --
 
 [.letter-heading]
-From Sarah Grubb To Louisa Strangman.
+From Sarah R. Grubb To Louisa Strangman.
 
 [.signed-section-context-open]
 Anner Mills, First Month 18th, 1783.
