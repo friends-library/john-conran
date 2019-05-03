@@ -1,8 +1,8 @@
 == Chapter VIII.
 
 [.chapter-synopsis]
-* 1824+++.+++ Various Exercises and Openings in Scripture Doctrine
-* Conclusion of His Journal
+* 1824+++.+++ Various exercises and openings in Scripture doctrine
+* Conclusion of his journal
 
 Second Month, 1824.--I returned from B+++_______+++ after a week`'s absence;
 in one of the meetings there I had to address some whose lamp was gone out,
@@ -21,6 +21,7 @@ A solemn stillness covered the meeting, and I believed the state was reached.
 I was invited to spend an evening at their house,
 but did not go--if any good is performed, let it be the Lord`'s work, and not man`'s.
 
+[.offset]
 +++[+++During this latter period of his life, he appears in his early waking hours,
 or other seasons of retirement, when prostrated in awful silence before God,
 to have often been favoured with a flow of Scripture doctrine,
@@ -30,7 +31,7 @@ he frequently committed these passages, with the heads of their explanations to 
 whilst fresh in his memory,
 and on one of these occasions remarks how suddenly these Divine openings were closed,
 as if a person had been reading to him in a book, which was afterwards shut,
-and the communications which had been in the Divine light ceased, adding+++]+++
+and the communications which had been in the Divine light ceased, adding,+++]+++
 not one sentence I think could I remember a few minutes after,
 I could not read any more in that book, neither did I attempt it,
 but abode in the quiet submission.
@@ -42,7 +43,7 @@ latterly to make the least appearance on my recollection,
 as other circumstances have done.
 The Scriptures are a sealed book to the natural man,
 and none can break the seals but the Lion of the tribe of Judah,
-whom big own works do praise.
+whom his own works do praise.
 
 +++[+++At another time he says+++]+++, These seasons +++[+++of Heavenly good+++]+++
 have appeared to me as somewhat of what Paul alludes to
@@ -285,9 +286,7 @@ yet not I,
 but Christ liveth in me,`" and the life I now live is not according to the flesh,
 but in my measure according to the blessed will of the dear Son of God,
 and to Him is the praise and thanksgiving, now and forever.
-Amen.
-
-Written by myself who am almost blind, John Conran
+Amen. Written by myself who am almost blind, John Conran.
 
 [.offset]
 +++[+++Many of his latter memoranda were written by a kind friend from dictation.+++]+++
@@ -367,6 +366,7 @@ and my weary spirit I trust will experience rest.
 [.asterism]
 '''
 
+[.offset]
 +++[+++These appear to be the last words recorded in John Conran`'s Journal,
 and in a hand almost illegible, he being nearly blind;
 but he continued to attend meetings, even sometimes at the distance of fourteen miles,
@@ -378,10 +378,11 @@ often saying, as an incentive to a more perfect dedication of mind and body,+++]
 "`I serve the Best of masters, who, I can testify from long and precious experience,
 withholds no good thing from those who faithfully; serve and obey Him.`"
 
-The following extract from the Testimony concerning him drawn
+[.offset]
++++[+++The following extract from the Testimony concerning him drawn
 up by the Friends of Lurgan Monthly Meeting will shew how he
 was engaged with the same zeal in the last meeting he attended,
-being the day previous to his death]:--
+being the day previous to his death+++]+++:--
 
 [quote]
 ____
@@ -400,9 +401,9 @@ having thereby necessarily undertaken to provide for a family,
 especially as he is declared to be worse than an infidel who provides not for his own.
 Then mourning over those who were not sensible of their situation,
 and of the great salvation offered to all he said,
-'`I now again tell you what I have so often declared
-that "`other foundation can no man lay than is laid,
-which is Jesus Christ.`"`' Then warned all to be careful of neglecting calls from Heaven,
+"`I now again tell you what I have so often declared
+that '`other foundation can no man lay than is laid,
+which is Jesus Christ.`'`" Then warned all to be careful of neglecting calls from Heaven,
 and by the servants sent as messenger after messenger, testifying,
 "`Behold all things are ready,`" for should they continue to do so,
 the children`'s seats at the Lord`'s table would be filled by others,
