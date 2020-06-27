@@ -514,9 +514,13 @@ Charles Parker.
 Hay, in Brecknockshire, Wales, 17th of Fourth Month, 1821.
 
 [.postscript]
+====
+
 Being here on my journey, I am desired to present thee with the love of our dear friend,
 Nathan Hunt, whom I expect thou wilt see in Dublin, and may add,
 that I feel helped on my way, as I was favoured to be in Ireland.
+
+====
 
 --
 
@@ -1155,8 +1159,12 @@ I subscribe myself thy truly affectionate brother and friend,
 John Conran.
 
 [.postscript]
+====
+
 I still lodge in Moyallen,
 my son lives in the bounds of Moate meeting with his wife and children, a farmer.
+
+====
 
 --
 
