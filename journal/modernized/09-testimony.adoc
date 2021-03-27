@@ -1,4 +1,4 @@
-[#testimony, short="Testimony of Lisburn Monthly Meeting"]
+[short="Testimony of Lisburn Monthly Meeting"]
 == The Testimony
 
 [.chapter-subtitle--blurb]
